@@ -1,4 +1,4 @@
-# Damario Hamilton
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=850&color=F6F78B&width=435&lines=Hello+World!;I+am+Damario+Hamilton;Software+engineer+;curious+learner;One+Piece+fan)](https://git.io/typing-svg)
 ## About me
 I am a rising sophomore with a major in cs and a minor in physics at Case Western Reserve University in Ohio. 
 
