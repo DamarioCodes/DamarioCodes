@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=F7EEEB&width=435&lines=Software+engineer+.+.+.;Problem+solver+.+.+.;One+Piece+fan.)](https://git.io/typing-svg)
 ## About me
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="500" src="programmer.gif">
 I am a rising sophomore with a major in cs and a minor in physics at Case Western Reserve University in Ohio. 
 
 
