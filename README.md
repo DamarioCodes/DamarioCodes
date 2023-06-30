@@ -36,4 +36,4 @@ Visitor count <br>
 <img src="https://profile-counter.glitch.me/DHamCodes/count.svg" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DHamCodes&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DamarioCodes&theme=soft-green&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
