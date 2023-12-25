@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=F7EEEB&width=435&lines=Software+engineer+.+.+.;Problem+solver+.+.+.;One+Piece+fan.)](https://git.io/typing-svg)
 ## About me 
 <img align="right" alt="Coding" width="500" src="programmer.gif">
- A Rising sophomore  who is passionate about merging computer science and physics to solve complex problems. Proficient in software development, algorithms, data structures, and scientific computing. Eager to contribute to open-source projects and collaborate with fellow developers for innovative solutions. Always learning and seeking new tech opportunities.
+ A  sophomore  who is passionate about merging computer science and physics to solve complex problems. Proficient in software development, algorithms, data structures, and scientific computing. Eager to contribute to open-source projects and collaborate with fellow developers for innovative solutions. Always learning and seeking new tech opportunities.
 
 
 <b>What are you working on right now?</b>
