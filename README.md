@@ -30,7 +30,7 @@ For now, you can reach me at my school email at ddh69@case.edu
 
 ## Some fun stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
 
-![Top Langs](https://github-readme-stats-damariocodes.vercel.app/api/top-langs/?username=damariocodes&hide_progress=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-bay-psi-65.vercel.app/api/top-langs/?username=damariocodes&hide_progress=true&theme=vision-friendly-dark)
 
 Visitor count <br>
 <img src="https://profile-counter.glitch.me/DHamCodes/count.svg" />
