@@ -30,12 +30,17 @@ For now, you can reach me at my school email at ddh69@case.edu
 </a> </p>
 
 ## Some fun stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
-
+<!--
 ![Top Langs](https://github-readme-stats-bay-psi-65.vercel.app/api/top-langs/?username=damariocodes&layout=donut-vertical&theme=dark)
+-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damariocodes&theme=radical&border=false" />
+
 
 
 Visitor count <br>
 <img src="https://profile-counter.glitch.me/DHamCodes/count.svg" />
 
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=DamarioCodes&theme=soft-green&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+-->
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=damariocodes&theme=radical" />
